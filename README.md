@@ -2,7 +2,7 @@
 
 This repo contains some examples of basic modules and functions that you need to get up and running with Node.js.
 
-<p> </p>
+<br><br>
 
 This includes being able to: 
 - Create and use modules in Node.js (both built-in and user created).
